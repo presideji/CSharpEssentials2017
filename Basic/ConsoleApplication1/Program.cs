@@ -18,7 +18,7 @@ namespace ConsoleApplication1
             Console.Write("Hello");
             Console.Write("World");
 
-            Console.ReadKey();
+            Console.ReadKey(); //is saying read any key that user press
             // the above is saying do not close the output of
             // console.writeline
         }
